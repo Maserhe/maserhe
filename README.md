@@ -4,8 +4,8 @@ I am currently studying in Shenyang University of technology
 
 ## 📫 How to reach me: 
 - QQ：[982289931](http://wpa.qq.com/msgrd?v=3&uin=982289931&site=qq&menu=yes)
-- Blog：[www.maserhe.top](https://www.maserhe.top)
-- Email：[maserhelinux@gmail.com](maserhelinux@gmail.com)
+- Blog：[www.day1.cn](https://www.day1.cn)
+- Email：[admin@day1.cn](admin@day1.cn)
 
 ## 😄 Pronouns: 
 - Maserhe
