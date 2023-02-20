@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Maserhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maserhe&include_all_commits=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 I am currently studying in DongHua University
 
@@ -9,9 +10,10 @@ I am currently studying in DongHua University
 
 ## 😄 Pronouns: 
 - Maserhe
-- Master-Y
+- DAYONE
 
 ## ⚡ Hobbies: 
 - Algorithm
 - leetcode
 - JP. Animation
+- coding
