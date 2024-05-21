@@ -12,7 +12,7 @@ I am currently studying at Donghua University and interning at Alibaba.
 ## 😄 Pronouns: 
 - Maserhe
 - DAYONE
-- Master-Y
+- Master_Y
 
 ## ⚡ Hobbies: 
 - [Leetcode传送门](https://leetcode.cn/u/maserhe/)
