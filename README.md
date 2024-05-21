@@ -2,7 +2,7 @@
 ### Hi there 👋
 ![Maserhe's GitHub](https://github-readme-stats.vercel.app/api?hide=issues,contribs&include_all_commits=true&username=Maserhe)
 
-I am currently studying at Donghua University and interning at Alibaba
+I am currently studying at Donghua University and interning at Alibaba.
 
 ## 📫 How to reach me: 
 - QQ：[982289931](http://wpa.qq.com/msgrd?v=3&uin=982289931&site=qq&menu=yes)
