@@ -19,4 +19,3 @@ I am currently studying at Donghua University and interning at Alibaba.
 - [Leetcode传送门](https://leetcode.cn/u/maserhe/)
 - Coding
 - Algorithm
-- JP. Animation
